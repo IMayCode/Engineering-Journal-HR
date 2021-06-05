@@ -1,34 +1,31 @@
 # Date
 
-## Overview
-Text
 
-## Log - Daily summary of goals/tickets/tasks/learning points:
 
-### 8:00AM - Task
+## 8:00AM - Task
 
-#### Challenge/Motivation
+### Challenge/Motivation
+> text
+
+### Actions Taken
 text
 
-#### Actions Taken
+### Results Observed
 text
 
-#### Results Observed
+## 11:00AM - Task
+
+### Challenge/Motivation
 text
 
-### 11:00AM - Task
-
-#### Challenge/Motivation
+### Actions Taken
 text
 
-#### Actions Taken
-text
-
-#### Results Observed
+### Results Observed
 text
 
 
-### Prompts to consider:
+## Prompts to consider:
 Provide a Situation-Action-Result:
 
 What went well?  What could be improved?
